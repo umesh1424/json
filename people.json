@@ -1,28 +1,44 @@
-[
-  {
-    "name": "Gupa Vivek",
-    "slug": "gupa-vivek",
-    "status": "Current Team Member",
-    "linkedin": "https://www.linkedin.com/in/gupa-vivek-644678331/",
-    "github": "https://github.com/Nexus334023K",
-    "date_of_joining": "6/23/2026",
-    "end_date": "",
-    "duration": "",
-    "email": "24211a05l3@bvrit.ac.in,vivekgupa3340@gmail.com",
-    "academic_year_end": "2028",
-    "role": "Website Developer(Javascript, Node.js Express.js, React.js)"
-  },
-  {
-    "name": "Lokesh R",
-    "slug": "lokesh-r",
-    "status": "Former Team Member",
-    "linkedin": "https://www.linkedin.com/in/lokesh-r/",
-    "github": "https://github.com/lokesh-r",
-    "date_of_joining": "7/1/2026",
-    "end_date": "9/30/2026",
-    "duration": "3 months",
-    "email": "24000005ft@bvrit.ac.in",
-    "academic_year_end": "2028",
-    "role": "Software Development Intern"
-  }
-]
+{
+  "current": [
+    {
+      "name": "2026/07/14 3:51:03 PM GMT+5:30",
+      "slug": "2026-07-14-3-51-03-pm-gmt-5-30",
+      "status": "2026/07/14 3:51:03 PM GMT+5:30",
+      "linkedin": "",
+      "github": "https://github.com/Student-R01",
+      "date_of_joining": "",
+      "end_date": "",
+      "duration": "",
+      "email": "rishimnmb@gmail.com",
+      "academic_year_end": "2026/07/14 3:51:03 PM GMT+5:30",
+      "role": ""
+    },
+    {
+      "name": "G.usha sri",
+      "slug": "g-usha-sri",
+      "status": "2026/07/22 3:15:15 PM GMT+5:30",
+      "linkedin": "",
+      "github": "https://github.com/gudipati-usha",
+      "date_of_joining": "2026-07-22",
+      "end_date": "",
+      "duration": "",
+      "email": "gudipatiushasri05@gmail.com",
+      "academic_year_end": "2026/07/22 3:15:15 PM GMT+5:30",
+      "role": "Internship"
+    },
+    {
+      "name": "Bhanu prasad",
+      "slug": "bhanu-prasad",
+      "status": "2026/07/22 3:27:09 PM GMT+5:30",
+      "linkedin": "",
+      "github": "https://github.com/Bhanuab23",
+      "date_of_joining": "2026-07-06",
+      "end_date": "",
+      "duration": "",
+      "email": "24211a05w3@bvrit.ac.in",
+      "academic_year_end": "2026/07/22 3:27:09 PM GMT+5:30",
+      "role": "Internship"
+    }
+  ],
+  "past": []
+}
