@@ -1,4 +1,5 @@
-{
+[
+  {
     "name": "Gupa Vivek",
     "slug": "gupa-vivek",
     "status": "Current Team Member",
@@ -10,4 +11,18 @@
     "email": "24211a05l3@bvrit.ac.in,vivekgupa3340@gmail.com",
     "academic_year_end": "2028",
     "role": "Website Developer(Javascript, Node.js Express.js, React.js)"
-}
+  },
+  {
+    "name": "Lokesh R",
+    "slug": "lokesh-r",
+    "status": "Former Team Member",
+    "linkedin": "https://www.linkedin.com/in/lokesh-r/",
+    "github": "https://github.com/lokesh-r",
+    "date_of_joining": "7/1/2026",
+    "end_date": "9/30/2026",
+    "duration": "3 months",
+    "email": "24000005ft@bvrit.ac.in",
+    "academic_year_end": "2028",
+    "role": "Software Development Intern"
+  }
+]
